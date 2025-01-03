@@ -9,7 +9,7 @@ sites:
     url: https://join.credo.org.au
   - name: Credo Talkback
     url: https://talkback.credo.org.au
-    - name: Eastercon
+  - name: Eastercon
     url: https://eastercon.org.au
   - name: St George Brass Band
     url: https://stgeorgebrassband.com.au
