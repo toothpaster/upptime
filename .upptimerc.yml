@@ -9,8 +9,13 @@ sites:
     url: https://join.credo.org.au
   - name: Credo Talkback
     url: https://talkback.credo.org.au
+    - name: Eastercon
+    url: https://eastercon.org.au
   - name: St George Brass Band
     url: https://stgeorgebrassband.com.au
+
+assignees: # Users to assign downtime issues (optional)
+  - toothpaster
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
