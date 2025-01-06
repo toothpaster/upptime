@@ -13,6 +13,8 @@ sites:
     url: https://eastercon.org.au
   - name: St George Brass Band
     url: https://stgeorgebrassband.com.au
+  - name: Riverwood Baptist
+    url: https://riverwoodbaptist.org.au
 
 assignees: # Users to assign downtime issues (optional)
   - toothpaster
