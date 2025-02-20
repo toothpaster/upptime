@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/credo.org.au.ico",
     "slug": "credo-main-website",
     "status": "up",
-    "uptime": "99.91%",
+    "uptime": "99.92%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.42%",
+    "uptimeWeek": "99.57%",
     "uptimeMonth": "99.87%",
-    "uptimeYear": "99.91%",
-    "time": 791,
+    "uptimeYear": "99.92%",
+    "time": 790,
     "timeDay": 702,
-    "timeWeek": 802,
-    "timeMonth": 801,
-    "timeYear": 791,
+    "timeWeek": 783,
+    "timeMonth": 800,
+    "timeYear": 790,
     "dailyMinutesDown": {
       "2025-02-16": 43,
       "2025-02-12": 16
@@ -31,11 +31,11 @@
     "uptimeWeek": "99.59%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.94%",
-    "time": 799,
-    "timeDay": 831,
-    "timeWeek": 816,
-    "timeMonth": 814,
-    "timeYear": 799,
+    "time": 800,
+    "timeDay": 849,
+    "timeWeek": 827,
+    "timeMonth": 817,
+    "timeYear": 800,
     "dailyMinutesDown": {
       "2025-02-16": 42
     }
@@ -51,11 +51,11 @@
     "uptimeWeek": "99.60%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.94%",
-    "time": 808,
-    "timeDay": 760,
-    "timeWeek": 989,
-    "timeMonth": 833,
-    "timeYear": 808,
+    "time": 810,
+    "timeDay": 898,
+    "timeWeek": 1007,
+    "timeMonth": 832,
+    "timeYear": 810,
     "dailyMinutesDown": {
       "2025-02-16": 40
     }
@@ -71,11 +71,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 212,
-    "timeDay": 290,
+    "time": 211,
+    "timeDay": 189,
     "timeWeek": 181,
     "timeMonth": 230,
-    "timeYear": 212,
+    "timeYear": 211,
     "dailyMinutesDown": {}
   },
   {
@@ -89,11 +89,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1059,
-    "timeDay": 940,
-    "timeWeek": 994,
-    "timeMonth": 1052,
-    "timeYear": 1059,
+    "time": 1052,
+    "timeDay": 695,
+    "timeWeek": 899,
+    "timeMonth": 1038,
+    "timeYear": 1052,
     "dailyMinutesDown": {}
   },
   {
@@ -107,11 +107,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 329,
-    "timeDay": 119,
-    "timeWeek": 772,
-    "timeMonth": 367,
-    "timeYear": 329,
+    "time": 327,
+    "timeDay": 276,
+    "timeWeek": 792,
+    "timeMonth": 365,
+    "timeYear": 327,
     "dailyMinutesDown": {}
   }
 ]
