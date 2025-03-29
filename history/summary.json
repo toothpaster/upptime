@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/credo.org.au.ico",
     "slug": "credo-main-website",
     "status": "up",
-    "uptime": "99.68%",
+    "uptime": "99.69%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.68%",
+    "uptimeYear": "99.69%",
     "time": 810,
     "timeDay": 879,
     "timeWeek": 880,
@@ -86,7 +86,7 @@
     "url": "https://stgeorgebrassband.com.au",
     "icon": "https://icons.duckduckgo.com/ip3/stgeorgebrassband.com.au.ico",
     "slug": "st-george-brass-band",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -98,6 +98,7 @@
     "timeMonth": 900,
     "timeYear": 991,
     "dailyMinutesDown": {
+      "2025-03-29": 0,
       "2025-02-22": 17
     }
   },
