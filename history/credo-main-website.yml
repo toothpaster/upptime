@@ -1,7 +1,7 @@
 url: https://credo.org.au
-status: up
-code: 200
-responseTime: 1062
-lastUpdated: 2025-11-16T23:09:08.783Z
+status: down
+code: 503
+responseTime: 1006
+lastUpdated: 2025-11-17T22:54:23.764Z
 startTime: 2025-01-02T00:46:43.930Z
 generator: Upptime <https://github.com/upptime/upptime>
