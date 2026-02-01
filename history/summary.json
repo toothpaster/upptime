@@ -33,19 +33,19 @@
     "url": "https://join.credo.org.au",
     "icon": "https://icons.duckduckgo.com/ip3/join.credo.org.au.ico",
     "slug": "credo-join",
-    "status": "up",
-    "uptime": "99.35%",
-    "uptimeDay": "73.39%",
+    "status": "down",
+    "uptime": "99.36%",
+    "uptimeDay": "73.35%",
     "uptimeWeek": "92.39%",
-    "uptimeMonth": "95.03%",
-    "uptimeYear": "99.30%",
+    "uptimeMonth": "95.02%",
+    "uptimeYear": "99.31%",
     "time": 1151,
     "timeDay": 1341,
     "timeWeek": 1292,
     "timeMonth": 1309,
     "timeYear": 1174,
     "dailyMinutesDown": {
-      "2026-02-01": 265,
+      "2026-02-01": 266,
       "2026-01-31": 159,
       "2026-01-30": 166,
       "2026-01-29": 69,
@@ -92,7 +92,7 @@
       "2025-12-09": 150,
       "2025-12-08": 83,
       "2025-12-07": 43,
-      "2025-12-06": 74
+      "2025-12-06": 26
     }
   },
   {
@@ -100,9 +100,9 @@
     "url": "https://talkback.credo.org.au",
     "icon": "https://icons.duckduckgo.com/ip3/talkback.credo.org.au.ico",
     "slug": "credo-talkback",
-    "status": "up",
+    "status": "down",
     "uptime": "99.35%",
-    "uptimeDay": "73.59%",
+    "uptimeDay": "73.58%",
     "uptimeWeek": "92.48%",
     "uptimeMonth": "95.14%",
     "uptimeYear": "99.29%",
@@ -160,7 +160,7 @@
       "2025-12-08": 81,
       "2025-12-07": 43,
       "2025-12-06": 175,
-      "2025-12-05": 20
+      "2025-12-05": 4
     }
   },
   {
