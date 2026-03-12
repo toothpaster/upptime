@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 1156,
-    "timeDay": 1101,
+    "timeDay": 0,
     "timeWeek": 1112,
     "timeMonth": 1079,
-    "timeYear": 1230,
+    "timeYear": 1231,
     "dailyMinutesDown": {
       "2026-01-07": 18,
       "2026-01-05": 25,
@@ -30,19 +30,19 @@
     "url": "https://join.credo.org.au",
     "icon": "https://icons.duckduckgo.com/ip3/join.credo.org.au.ico",
     "slug": "credo-join",
-    "status": "up",
+    "status": "down",
     "uptime": "99.16%",
-    "uptimeDay": "79.38%",
-    "uptimeWeek": "83.82%",
-    "uptimeMonth": "90.31%",
+    "uptimeDay": "83.58%",
+    "uptimeWeek": "83.81%",
+    "uptimeMonth": "90.37%",
     "uptimeYear": "99.00%",
     "time": 1170,
-    "timeDay": 1251,
+    "timeDay": 1242,
     "timeWeek": 1257,
     "timeMonth": 1231,
-    "timeYear": 1213,
+    "timeYear": 1214,
     "dailyMinutesDown": {
-      "2026-03-12": 215,
+      "2026-03-12": 216,
       "2026-03-11": 396,
       "2026-03-10": 360,
       "2026-03-09": 167,
@@ -75,8 +75,7 @@
       "2026-02-09": 52,
       "2026-02-08": 171,
       "2026-02-06": 177,
-      "2026-02-05": 221,
-      "2026-02-04": 19
+      "2026-02-05": 221
     }
   },
   {
@@ -84,17 +83,17 @@
     "url": "https://talkback.credo.org.au",
     "icon": "https://icons.duckduckgo.com/ip3/talkback.credo.org.au.ico",
     "slug": "credo-talkback",
-    "status": "up",
+    "status": "down",
     "uptime": "99.17%",
-    "uptimeDay": "79.58%",
+    "uptimeDay": "83.75%",
     "uptimeWeek": "83.96%",
-    "uptimeMonth": "90.39%",
+    "uptimeMonth": "90.46%",
     "uptimeYear": "99.01%",
     "time": 1258,
-    "timeDay": 1291,
+    "timeDay": 1253,
     "timeWeek": 1394,
-    "timeMonth": 1348,
-    "timeYear": 1306,
+    "timeMonth": 1347,
+    "timeYear": 1307,
     "dailyMinutesDown": {
       "2026-03-12": 214,
       "2026-03-11": 392,
@@ -129,8 +128,7 @@
       "2026-02-09": 52,
       "2026-02-08": 169,
       "2026-02-06": 174,
-      "2026-02-05": 219,
-      "2026-02-04": 19
+      "2026-02-05": 219
     }
   },
   {
@@ -148,7 +146,7 @@
     "timeDay": 202,
     "timeWeek": 186,
     "timeMonth": 218,
-    "timeYear": 268,
+    "timeYear": 267,
     "dailyMinutesDown": {
       "2026-02-24": 64,
       "2025-11-18": 174
