@@ -30,18 +30,19 @@
     "url": "https://join.credo.org.au",
     "icon": "https://icons.duckduckgo.com/ip3/join.credo.org.au.ico",
     "slug": "credo-join",
-    "status": "up",
-    "uptime": "99.17%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "95.12%",
+    "status": "down",
+    "uptime": "99.20%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "95.11%",
     "uptimeMonth": "91.03%",
-    "uptimeYear": "98.99%",
+    "uptimeYear": "99.02%",
     "time": 1173,
     "timeDay": 1306,
     "timeWeek": 1273,
     "timeMonth": 1229,
     "timeYear": 1221,
     "dailyMinutesDown": {
+      "2026-03-24": 1,
       "2026-03-22": 183,
       "2026-03-21": 77,
       "2026-03-20": 57,
@@ -75,7 +76,7 @@
       "2026-02-18": 72,
       "2026-02-17": 268,
       "2026-02-16": 119,
-      "2026-02-15": 337
+      "2026-02-15": 198
     }
   },
   {
@@ -83,18 +84,19 @@
     "url": "https://talkback.credo.org.au",
     "icon": "https://icons.duckduckgo.com/ip3/talkback.credo.org.au.ico",
     "slug": "credo-talkback",
-    "status": "up",
-    "uptime": "99.17%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.20%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "94.69%",
     "uptimeMonth": "91.00%",
-    "uptimeYear": "98.99%",
+    "uptimeYear": "99.02%",
     "time": 1256,
     "timeDay": 1394,
     "timeWeek": 1271,
     "timeMonth": 1318,
     "timeYear": 1308,
     "dailyMinutesDown": {
+      "2026-03-24": 0,
       "2026-03-22": 230,
       "2026-03-21": 76,
       "2026-03-20": 56,
@@ -128,7 +130,7 @@
       "2026-02-18": 71,
       "2026-02-17": 264,
       "2026-02-16": 118,
-      "2026-02-15": 333
+      "2026-02-15": 195
     }
   },
   {
