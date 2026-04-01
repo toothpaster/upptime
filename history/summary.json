@@ -7,12 +7,12 @@
     "status": "up",
     "uptime": "99.85%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.43%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.89%",
     "time": 1159,
     "timeDay": 1284,
-    "timeWeek": 1298,
+    "timeWeek": 1315,
     "timeMonth": 1170,
     "timeYear": 1249,
     "dailyMinutesDown": {
@@ -31,19 +31,19 @@
     "url": "https://join.credo.org.au",
     "icon": "https://icons.duckduckgo.com/ip3/join.credo.org.au.ico",
     "slug": "credo-join",
-    "status": "up",
-    "uptime": "99.19%",
-    "uptimeDay": "94.98%",
+    "status": "down",
+    "uptime": "99.20%",
+    "uptimeDay": "94.93%",
     "uptimeWeek": "94.39%",
-    "uptimeMonth": "90.80%",
-    "uptimeYear": "98.99%",
+    "uptimeMonth": "90.96%",
+    "uptimeYear": "99.01%",
     "time": 1181,
     "timeDay": 1351,
     "timeWeek": 1519,
-    "timeMonth": 1284,
+    "timeMonth": 1285,
     "timeYear": 1233,
     "dailyMinutesDown": {
-      "2026-04-01": 72,
+      "2026-04-01": 73,
       "2026-03-31": 79,
       "2026-03-30": 185,
       "2026-03-29": 101,
@@ -81,7 +81,7 @@
       "2026-02-20": 33,
       "2026-02-19": 130,
       "2026-02-18": 72,
-      "2026-02-17": 92
+      "2026-02-17": 27
     }
   },
   {
@@ -89,16 +89,16 @@
     "url": "https://talkback.credo.org.au",
     "icon": "https://icons.duckduckgo.com/ip3/talkback.credo.org.au.ico",
     "slug": "credo-talkback",
-    "status": "up",
-    "uptime": "99.19%",
-    "uptimeDay": "95.01%",
+    "status": "down",
+    "uptime": "99.20%",
+    "uptimeDay": "95.00%",
     "uptimeWeek": "94.44%",
-    "uptimeMonth": "90.77%",
-    "uptimeYear": "98.99%",
+    "uptimeMonth": "90.93%",
+    "uptimeYear": "99.01%",
     "time": 1256,
     "timeDay": 1207,
     "timeWeek": 1244,
-    "timeMonth": 1317,
+    "timeMonth": 1321,
     "timeYear": 1311,
     "dailyMinutesDown": {
       "2026-04-01": 72,
@@ -139,7 +139,7 @@
       "2026-02-20": 32,
       "2026-02-19": 129,
       "2026-02-18": 71,
-      "2026-02-17": 90
+      "2026-02-17": 26
     }
   },
   {
