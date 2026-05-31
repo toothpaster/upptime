@@ -4,16 +4,16 @@
     "url": "https://credo.org.au",
     "icon": "https://icons.duckduckgo.com/ip3/credo.org.au.ico",
     "slug": "credo-main-website",
-    "status": "down",
-    "uptime": "99.46%",
-    "uptimeDay": "99.30%",
-    "uptimeWeek": "93.24%",
-    "uptimeMonth": "93.03%",
-    "uptimeYear": "99.31%",
+    "status": "up",
+    "uptime": "99.44%",
+    "uptimeDay": "91.10%",
+    "uptimeWeek": "92.15%",
+    "uptimeMonth": "92.76%",
+    "uptimeYear": "99.28%",
     "time": 1190,
-    "timeDay": 1277,
-    "timeWeek": 1183,
-    "timeMonth": 1352,
+    "timeDay": 1276,
+    "timeWeek": 1210,
+    "timeMonth": 1351,
     "timeYear": 1329,
     "dailyMinutesDown": {
       "2025-07-01": 17,
@@ -43,7 +43,7 @@
       "2026-05-24": 149,
       "2026-05-26": 145,
       "2026-05-27": 458,
-      "2026-05-31": 10
+      "2026-05-31": 128
     }
   },
   {
@@ -51,16 +51,16 @@
     "url": "https://join.credo.org.au",
     "icon": "https://icons.duckduckgo.com/ip3/join.credo.org.au.ico",
     "slug": "credo-join",
-    "status": "down",
-    "uptime": "98.68%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "93.43%",
-    "uptimeMonth": "89.33%",
-    "uptimeYear": "98.15%",
-    "time": 1220,
-    "timeDay": 1519,
-    "timeWeek": 1324,
-    "timeMonth": 1284,
+    "status": "up",
+    "uptime": "98.67%",
+    "uptimeDay": "91.43%",
+    "uptimeWeek": "92.29%",
+    "uptimeMonth": "89.06%",
+    "uptimeYear": "98.12%",
+    "time": 1221,
+    "timeDay": 1430,
+    "timeWeek": 1326,
+    "timeMonth": 1285,
     "timeYear": 1280,
     "dailyMinutesDown": {
       "2026-04-05": 72,
@@ -110,7 +110,7 @@
       "2026-05-24": 139,
       "2026-05-26": 140,
       "2026-05-27": 453,
-      "2026-05-31": 5
+      "2026-05-31": 123
     }
   },
   {
@@ -118,16 +118,16 @@
     "url": "https://talkback.credo.org.au",
     "icon": "https://icons.duckduckgo.com/ip3/talkback.credo.org.au.ico",
     "slug": "credo-talkback",
-    "status": "down",
-    "uptime": "98.70%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "93.62%",
-    "uptimeMonth": "89.65%",
-    "uptimeYear": "98.17%",
-    "time": 1281,
-    "timeDay": 1365,
-    "timeWeek": 1286,
-    "timeMonth": 1258,
+    "status": "up",
+    "uptime": "98.69%",
+    "uptimeDay": "91.77%",
+    "uptimeWeek": "92.45%",
+    "uptimeMonth": "89.38%",
+    "uptimeYear": "98.15%",
+    "time": 1282,
+    "timeDay": 1371,
+    "timeWeek": 1295,
+    "timeMonth": 1260,
     "timeYear": 1336,
     "dailyMinutesDown": {
       "2026-04-05": 110,
@@ -177,7 +177,7 @@
       "2026-05-24": 130,
       "2026-05-26": 135,
       "2026-05-27": 448,
-      "2026-05-31": 0
+      "2026-05-31": 119
     }
   },
   {
@@ -206,16 +206,16 @@
     "url": "https://stgeorgebrassband.com.au",
     "icon": "https://icons.duckduckgo.com/ip3/stgeorgebrassband.com.au.ico",
     "slug": "st-george-brass-band",
-    "status": "down",
-    "uptime": "99.58%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "93.63%",
-    "uptimeMonth": "93.55%",
-    "uptimeYear": "99.42%",
-    "time": 781,
-    "timeDay": 655,
-    "timeWeek": 626,
-    "timeMonth": 703,
+    "status": "up",
+    "uptime": "99.57%",
+    "uptimeDay": "91.78%",
+    "uptimeWeek": "92.46%",
+    "uptimeMonth": "93.28%",
+    "uptimeYear": "99.40%",
+    "time": 780,
+    "timeDay": 632,
+    "timeWeek": 624,
+    "timeMonth": 701,
     "timeYear": 708,
     "dailyMinutesDown": {
       "2025-06-07": 16,
@@ -240,7 +240,7 @@
       "2026-05-24": 129,
       "2026-05-26": 135,
       "2026-05-27": 448,
-      "2026-05-31": 0
+      "2026-05-31": 118
     }
   },
   {
